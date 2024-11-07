@@ -1,3 +1,16 @@
+---
+layout: post
+read_time: true
+show_date: true
+title: "Markdown学习"
+date: 2024-11-07
+img: posts/20241107/markdown.png
+tags: [markdown,study]
+category: opinion
+author: 松坂砂糖
+description: "博客网站的学习以及搭建从markdown语言的学习开始"
+---
+
 ## Markdown语法学习
 
 ***
