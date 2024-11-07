@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "Markdown学习"
+title: "Markdown的学习"
 date: 2024-11-07
 img: posts/20241107/Markdown.png
 tags: [markdown,study]
