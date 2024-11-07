@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Markdown学习"
 date: 2024-11-07
-img: posts/20241107/markdown.png
+img: posts/20241107/Markdown.png
 tags: [markdown,study]
 category: opinion
 author: 松坂砂糖
