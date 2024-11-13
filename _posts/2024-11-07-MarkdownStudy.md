@@ -9,6 +9,7 @@ tags: [markdown,study]
 category: opinion
 author: 松坂砂糖
 description: "博客网站的学习以及搭建从markdown语言的学习开始"
+mathjax: true
 toc: ture
 ---
 
