@@ -3,11 +3,11 @@ title: 松坂砂糖的小站
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nightbolan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/logo_1.png"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
 logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
-
+background_image: "/assets/img/branding/background.jpg"
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
 # (19:00 - 07:00), "manual" is for manual toggle, and
@@ -36,10 +36,10 @@ linkedin: # Add your Linkedin handle
 github: nightbolan # Add your Github handle
 twitter: '@Satou_chan_suki' # Add your Twitter handle
 bandcamp: # Add your Bandcamp username
-stackoverflow: stackoverflow # Add your stackoverflow account
+stackoverflow:  # Add your stackoverflow account
 
 # Newsletter
-mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
+mailchimp: 
 
 # Tracker
 analytics: G-R8SZS2YBZK
